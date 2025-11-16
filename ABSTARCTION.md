@@ -30,8 +30,8 @@ To write a Python program to define the abstract base class named `Polygon` and 
 ### PROGRAM
 
 ```
-Reg no-212223060125
-Name-Kesavan.S
+Reg no-212223060038
+Name-Deepak krishna J
 from abc import ABC  
   
 class Polygon(ABC):   
